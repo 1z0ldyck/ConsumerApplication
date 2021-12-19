@@ -1,5 +1,5 @@
 import pika, json, psycopg2
-import config
+import consumer.app.config as config
 
 
 class Consumer:
